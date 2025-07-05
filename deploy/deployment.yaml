@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: devops-demo
-        image: laurinal/devops-demo:v20250705074619
+        image: laurinal/devops-demo:v20250705095021
         ports:
         - containerPort: 80
